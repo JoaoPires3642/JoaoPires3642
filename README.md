@@ -9,27 +9,24 @@ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixo
 ###
 
 <h2 align="left">🛠️ Tecnologias</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  </div>
+
+  <div style="display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoPires3642&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPires3642&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
+  </div>
 </div>
 
 ###
 
-<h2 align="left">📊 Estatísticas</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPires3642&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPires3642&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
-</div>
-
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPires3642/JoaoPires3642/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPires3642/JoaoPires3642/output/pacman-contribution-graph.svg">
