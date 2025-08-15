@@ -8,16 +8,6 @@ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixo
 
 ###
 
-<h2 align="left">⚡ Sobre mim</h2>
-<ul align="left">
-  <li>🎓 Em formação na área de ADS</li>
-  <li>🚀 Foco principal em Back-end </li>
-  <li>💡 Interesse em sistemas escaláveis, APIs e boas práticas de código</li>
-  <li>🔍 Sempre buscando aprender novas tecnologias</li>
-</ul>
-
-###
-
 <h2 align="left">🛠️ Tecnologias</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
@@ -40,8 +30,6 @@ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixo
 </div>
 
 ###
-
-<h2 align="left">🎮 Meu gráfico de contribuições</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPires3642/JoaoPires3642/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPires3642/JoaoPires3642/output/pacman-contribution-graph.svg">
