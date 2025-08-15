@@ -7,6 +7,11 @@
 💻 Foco em <strong>Desenvolvimento Back-end</strong> com <strong>Java & Spring Boot</strong><br>
 🚀 Sempre buscando aprender e evoluir na área de tecnologia
 </p>
+<div> 
+    <a href="https://www.linkedin.com/in/joao-vitor-pires-57b570379" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:joaopires3642@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+</div>
 
 ###
 
@@ -26,17 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPires3642&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-</div>
-
-###
-<h2 align="left">🌐 Redes Sociais</h2>
-<div align="left" style="display: flex; gap: 16px;">
-<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32" width="32" alt="LinkedIn" />
-</a>
-<a href="mailto:seu@email.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32" width="32" alt="Email" />
-</a>
 </div>
 
 ###
