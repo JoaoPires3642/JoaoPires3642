@@ -26,7 +26,7 @@ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, apaixo
 </div>
 
 ###
-
+<h2 align="left">🕹️</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoPires3642/JoaoPires3642/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoPires3642/JoaoPires3642/output/pacman-contribution-graph.svg">
