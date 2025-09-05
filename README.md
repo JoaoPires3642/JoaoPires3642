@@ -29,7 +29,7 @@
   ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPires3642&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1&cache_seconds=28800 " height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPires3642&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1" height="140" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPires3642&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2&cache_seconds=28800" height="150" alt="languages graph"  />
 </div>
 
